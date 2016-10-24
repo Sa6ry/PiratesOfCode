@@ -10,7 +10,7 @@ body{
 margin:0;
 padding:0;
 background:#22181A;
-background-image: url(../images/stars.png) ;
+background-image: url(./../images/stars.png) ;
 background-repeat: repeat-x;
 font-family:"Helvetica Neue",Helvetica, Arial;
 }
